@@ -1,6 +1,5 @@
 ---
 title: Ruti Frankel
-
 categories: []
 tags: []
 excerpt: lorem-ipsum
